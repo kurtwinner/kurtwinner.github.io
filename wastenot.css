@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  padding: 1px;
+  display: block;
+  width: 340px;
+}
+
+nav {
+  line-height:1.5em;
+  background-color: black ;
+  width:340px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: circle;
+}
+
+a {
+    color: Sienna;
+}
+
+section {
+  width: 340px;
+  display: inline-block;
+}
+
+
+footer {
+  width: 680px;
+  background-color: Silver ;
+  text-align: left;
+  padding: 1px;
+  display: block;
+}

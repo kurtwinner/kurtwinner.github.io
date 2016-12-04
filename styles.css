@@ -1,0 +1,87 @@
+
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color: darkgreen;
+}
+
+header {
+  padding: 5px;
+  display: block;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  line-height:30px;
+  background-color:lightblue;
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 3px;
+  border: 1px solid black;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: darkgreen;
+}
+
+section {
+  width: 50%;
+  display: inline-block;
+  background-color: lightgray;
+  border: 1px solid black;
+}
+
+h2 {
+  text-align: center;
+}
+
+article {
+  padding: 10px;
+}
+
+.squirrel {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  border: 1px solid black;
+}
+
+aside {
+  width: 28%;
+  display: inline-block;
+  vertical-align: top;
+  background-color:lightgray;
+  font-size: 1.6em;
+  margin-left: 3px;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 100%;
+  background-color:lightgreen;
+  color: darkgreen;
+  text-align:center;
+  padding:5px;
+  display: block;
+}
